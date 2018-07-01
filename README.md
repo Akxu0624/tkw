@@ -6,6 +6,8 @@
 #### 服务端语言：PHP
 #### 本地服务器搭建：XAMPP(Apache+MySQL+PHP+PERL)，是一个功能强大的建站集成软件包
 
+若显示不出来点击 [传送门](https://blog.csdn.net/u012374026/article/details/80873196) 查看运行截图
+
 ### 运行截图
 <img src="https://img-blog.csdn.net/20180701115336101?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTIzNzQwMjY=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="900" />
 <img src="https://img-blog.csdn.net/20180701115404270?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTIzNzQwMjY=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="900" />
