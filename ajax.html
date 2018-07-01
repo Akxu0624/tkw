@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script type="text/javascript" src="js/jquery-2.2.1.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            $.ajax(
+                    {
+                        type:'get',
+                        url : 'myPhp.php',
+                        dataType : 'json',
+                        success  : function(data) {
+                            alert("用户名："+ data.user +" 密码："+ data.pass);
+                        },
+                        error : function() {
+                            alert('fail');
+                        }
+                    }
+            );
+        })
+    </script>
+
+</head>
+<body>
+
+</body>
+</html>
